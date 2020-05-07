@@ -1,1 +1,1 @@
-new test file2
+new test file2, added comments
